@@ -1,7 +1,7 @@
 #支持私库
 hyperf/hyperf:7.4-alpine-v3.12-base
-hyperf/hyperf:8.0-alpine-v3.13-base
 php:7.2.34-fpm
+hyperf/hyperf:8.0-alpine-v3.13-base
 nginx:1.19.6
 alpine:3.15
 
